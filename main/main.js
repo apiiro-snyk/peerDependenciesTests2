@@ -1,6 +1,6 @@
 const path = require('path');
 const fs = require('fs');
-const { fetchData } = require('./submodule');
+const { fetchData } = require('submodule');
 
 const savePath = path.join(__dirname, 'data.json');
 
