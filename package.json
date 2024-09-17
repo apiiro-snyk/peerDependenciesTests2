@@ -1,0 +1,10 @@
+{
+  "name": "web-data-fetcher",
+  "version": "1.0.0",
+  "description": "A project with separate packages for main and submodule.",
+  "private": true,
+  "scripts": {
+    "start": "node main/main.js"
+  },
+  "dependencies": {}
+}

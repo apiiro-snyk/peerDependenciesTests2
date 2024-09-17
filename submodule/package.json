@@ -1,0 +1,14 @@
+{
+  "name": "submodule",
+  "version": "1.0.0",
+  "description": "Submodule for fetching data.",
+  "main": "submodule.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^2.6.1"
+  },
+  "peerDependencies": {
+    "request": "^2.88.2"
+  }
+}
